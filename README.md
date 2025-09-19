@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ELMEHDI-HAMMIOUI  
 
-💻 Passionate **software developer** with expertise in **Java, .NET, web, and desktop development**. I enjoy solving complex problems and building efficient, scalable applications.
+💻 Passionate **software developer** with expertise in **Java, .NET, Spring boot, and desktop development**. I enjoy solving complex problems and building efficient, scalable applications.
 
 ---
 
